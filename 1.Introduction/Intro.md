@@ -342,4 +342,5 @@ $ curl -d '{"columns":["x"], "data":[[1], [-1]]}' -H 'Content-Type: application/
 
 ---
 reference:
-https://dailyheumsi.tistory.com/257?category=980484
+- https://www.mlflow.org/docs/latest/quickstart.html
+- https://dailyheumsi.tistory.com/257?category=980484
